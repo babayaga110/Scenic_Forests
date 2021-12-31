@@ -76,7 +76,7 @@ nav ul li a {
 }
 
 .forest-hero {
-    background: url('img/forest.jpg');
+    background: url('../img/forest.jpg');
     background-size: cover;
     color: white;
 }
